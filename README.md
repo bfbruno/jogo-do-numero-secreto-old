@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
  
  <h2>🔖 Sobre</h2>
- <p>Projeto utilizado no curso de Lógica de programação: mergulhe em programação com JavaScript da Alura.</p>
+ <p>Projeto utilizado no curso da Alura Lógica de programação: mergulhe em programação com JavaScript.</p>
  
  ## 🚀 Tecnologias
  <div>
