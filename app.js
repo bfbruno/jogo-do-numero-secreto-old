@@ -1,5 +1,5 @@
 alert('Boas vindas ao jogo do número secreto');
-let numLimite = 1000;
+let numLimite = 100;
 let numeroSecreto = parseInt(Math.random() * numLimite + 1);
 console.log(numeroSecreto);
 let chute;
@@ -21,11 +21,3 @@ while (chute != numeroSecreto){
 let numTentativas = tentativas > 1 ? "tentativas" : "tentativa";
 alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} ${numTentativas}`);
 
-
-/*
-if (tentativas > 1){
-    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativas`);
-}else{
-    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativa`);
-}
-*/
